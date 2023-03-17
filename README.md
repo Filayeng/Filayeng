@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Filayeng?tab=repositories)
 
-- 📫 How to reach me **omer.o.onall@gmail.com**
+- 📫 How to reach me **filayeng@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
