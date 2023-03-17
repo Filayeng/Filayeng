@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filayeng</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filayeng" alt="filayeng" /></a> </p>
+
 
 - 🔭 I’m currently working on **Vocabulary Notebook**
 
