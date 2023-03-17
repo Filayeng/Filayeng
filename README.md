@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Studio (Java)**
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Filayeng?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/Filayeng?tab=repositories)
 
 
 
