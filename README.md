@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/%c3%b6mer-%c3%b6nal-1a8bb01b6/](https://linkedin.com/in/https://www.linkedin.com/in/%c3%b6mer-%c3%b6nal-1a8bb01b6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%b6mer-%c3%b6nal-1a8bb01b6/" height="30" width="40" /></a>
+<a href="www.google.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer" height="30" width="40" /></a>
 <a href="[https://stackoverflow.com/users/filayeng](https://stackoverflow.com/users/14246404/filayeng)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="filayeng" height="30" width="40" /></a>
 <a href="https://kaggle.com/filayeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="filayeng" height="30" width="40" /></a>
 <a href="https://instagram.com/filayengsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filayengsoftware" height="30" width="40" /></a>
