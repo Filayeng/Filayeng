@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **filayeng@gmail.com**
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 50" style="background-color: #00000000;" width="400px" height="50px">
+<svg 
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 50" style="background-color: #00000000;" width="400px" height="50px">
 
     
                 <path id="path0">
@@ -21,8 +22,8 @@
         <textPath xlink:href="#path0">
             Just Developer ...
        </textPath>
-    </text>
-</svg>
+    </text>  
+  </svg>
 
 
 <h3 align="left">Connect with me:</h3>
