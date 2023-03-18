@@ -22,20 +22,7 @@
             Just Developer ...
        </textPath>
     </text>
-
-
-<path xmlns="http://www.w3.org/2000/svg" id="path0">
-                            <!-- Single line -->
-                                <animate id="d0" attributeName="d" begin="0s;d0.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-
-<text xmlns="http://www.w3.org/2000/svg" font-family="&quot;monospace&quot;, monospace" fill="#0357F7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
-        <textPath xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#path0">
-            Just Developer ...
-       </textPath>
- </text>
-  
-  </svg>
+</svg>
 
 
 <h3 align="left">Connect with me:</h3>
