@@ -12,12 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto: omer.o.onall@gmail.com" target="blank"><img align="center" src=https://live.staticflickr.com/65535/52759812704_4d9e7c5d07_o.jpg height="40" width="90" /></a>
-<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%B6nder-%C3%B6nal/" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759967575_cd9d2b3e9e_t.jpg" alt="omer" height="30" width="115" /></a>
-<a href="https://stackoverflow.com/users/14246404/filayeng" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759670306_9b4060b35d_t.jpg" alt="filayeng" height="30" width="142" /></a>
-<a href="https://instagram.com/filayengsoftware" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52760047793_44520ba110_t.jpg" height="30" width="125" /></a>
-<a href="https://medium.com/@filayeng" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759127177_e4a87798d9_t.jpg" alt="@filayeng" height="30" width="125" /></a>
-<a href="https://www.youtube.com/@Filayeng/" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52760050303_1b55d330f1_n.jpg" alt="filayeng" height="30" width="125" /></a>
+<a href="mailto: omer.o.onall@gmail.com" target="blank"><img align="center" src=https://live.staticflickr.com/65535/52759812704_4d9e7c5d07_o.jpg height="40" width="90"/></a>
+<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%B6nder-%C3%B6nal/" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759967575_cd9d2b3e9e_t.jpg" alt="omer" height="35" width="115" /></a>
+<a href="https://stackoverflow.com/users/14246404/filayeng" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759670306_9b4060b35d_t.jpg" alt="filayeng" height="35" width="142" /></a>
+  </p>
+<a href="https://instagram.com/filayengsoftware" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52760047793_44520ba110_t.jpg" height="35" width="125" /></a>
+<a href="https://medium.com/@filayeng" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52759127177_e4a87798d9_t.jpg" alt="@filayeng" height="35" width="125" /></a>
+<a href="https://www.youtube.com/@Filayeng/" target="blank"><img align="center" src="https://live.staticflickr.com/65535/52760050303_1b55d330f1_n.jpg" alt="filayeng" height="35" width="125" /></a>
 </p>
 
 
