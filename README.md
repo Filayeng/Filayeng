@@ -1,8 +1,9 @@
+<div align="center">
+
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Filayeng</h1>
 
-<div align="center">
 
 🔭 I’m currently working on Vocabulary Notebook<br>🌱 I’m currently learning Android Studio (Java)<br>👨‍💻 All of my projects are available at repositories<br>📫 How to reach me filayeng@gmail.com
 
@@ -37,8 +38,12 @@
 
 </div>
 
+<div align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Filayeng&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  </div>
