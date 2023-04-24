@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Filayeng</h1>
 
+<div align="center">
+
 🔭 I’m currently working on Vocabulary Notebook<br>🌱 I’m currently learning Android Studio (Java)<br>👨‍💻 All of my projects are available at repositories<br>📫 How to reach me filayeng@gmail.com
+
+</div>
+
 
 <div align="center">
 
